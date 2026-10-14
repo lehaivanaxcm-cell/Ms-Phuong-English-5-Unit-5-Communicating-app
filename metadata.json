@@ -1,0 +1,6 @@
+{
+  "name": "Ms Phương English - Tân Hưng Primary School",
+  "description": "Interactive communicative English home-practice modules with Karaoke Shadowing, situational dialogues, and interactive exercises for primary students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
